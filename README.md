@@ -1,6 +1,21 @@
 <h1 align="center"><u>WasserStoff Assignment</u></h1>
 <h2>Tech Stack:- ReactJS</h2>
-<h3>Libraries :- </h3>
+<h3>Libraries :- "@emotion/react": "^11.10.6",<br>
+    "@emotion/styled": "^11.10.6",<br>
+    "@mui/icons-material": "^5.11.11",<br>
+    "@mui/material": "^5.11.15",<br>
+    "@mui/styled-engine-sc": "^5.11.11",<br>
+    "apexcharts": "^3.37.2",<br>
+    "react": "^18.2.0",<br>
+    "react-apexcharts": "^1.4.0",<br>
+    "react-dom": "^18.2.0",<br>
+    "react-icons": "^4.8.0",<br>
+    "react-router": "^6.10.0",<br>
+    "react-router-dom": "^6.10.0",<br>
+    "react-scripts": "5.0.1",<br>
+    "react-simple-maps": "^3.0.0",<br>
+    "reactjs-percentage-circle": "^1.0.0",<br>
+    "recharts": "^2.5.0",</h3>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
