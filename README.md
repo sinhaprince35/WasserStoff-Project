@@ -16,8 +16,8 @@
     "react-simple-maps": "^3.0.0",<br>
     "reactjs-percentage-circle": "^1.0.0",<br>
     "recharts": "^2.5.0",</p>
-<h3>------------------------------------Overview of My Project-------------------------------------</h3>
-# Getting Started with Create React App
+
+<h2 align="center>Getting Started with Create React App</h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
