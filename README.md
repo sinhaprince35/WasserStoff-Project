@@ -1,6 +1,6 @@
 # WasserStoff-Project
 WasserStoff Frontend Hackathon Project, That is created using ReactJS
-<h1 align="center'>WasserStoff Assignment</h1>
+<h1>WasserStoff Assignment</h1>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
