@@ -1,6 +1,6 @@
 <h1 align="center"><u>WasserStoff Assignment</u></h1>
 <h2>Tech Stack:- ReactJS</h2>
-<h3>------------------------------------Libraries-------------------------------------</h3><p>"@emotion/react": "^11.10.6",<br>
+<h3 align="center">------------------------------------Libraries-------------------------------------</h3><p>"@emotion/react": "^11.10.6",<br>
     "@emotion/styled": "^11.10.6",<br>
     "@mui/icons-material": "^5.11.11",<br>
     "@mui/material": "^5.11.15",<br>
@@ -16,12 +16,12 @@
     "react-simple-maps": "^3.0.0",<br>
     "reactjs-percentage-circle": "^1.0.0",<br>
     "recharts": "^2.5.0",</p>
-<h3>---------------------------------Hosted Links-----------------------------------</h3>
+<h3 align="center">---------------------------------Hosted Links-----------------------------------</h3>
 <p></p>
-<h3>-----------------------------------Video Links-----------------------------------</h3>
+<h3 align="center">-----------------------------------Video Links-----------------------------------</h3>
 <p></p>
-<h3>-------------------------------------Approach------------------------------------</h3>
-<p> I had go through the design and get how to implement the basic structure and design using CSS.Using React-router-dom, I had done the Navbar to navigate the components then I have created individual components for reuseability. After that I have focused on how to implement a map using react-simple-map and I go through the <b>react-simple-map library</b> and design and implement step by step as such possible. After that I have thought about how to implement graphs like Bar chart , bubble chart and scatter charts I had read about on how how to implement and apply on my project so I done using <b>ApexChart library</b>,<b>React recharts library</b>. That's it </p>
+<h3 align="center">-------------------------------------Approach------------------------------------</h3>
+<p> I had go through the design and get how to implement the basic structure and design using <b>CSS</b>.Using React-router-dom, I had done the Navbar to navigate the components then I have created individual components for reuseability. After that I have focused on how to implement a map using react-simple-map and I go through the <b>react-simple-map library</b> and design and implement step by step as such possible. After that I have thought about how to implement graphs like Bar chart , bubble chart and scatter charts I had read about on how how to implement and apply on my project so I done using <b>ApexChart library</b>,<b>React recharts library</b>. That's it </p>
 <h2 align="center">Getting Started with Create React App</h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
