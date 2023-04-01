@@ -18,9 +18,10 @@
     "recharts": "^2.5.0",</p>
 <h3>---------------------------------Hosted Links-----------------------------------</h3>
 <p></p>
-<h3>---------------------------------Video Links-----------------------------------</h3>
+<h3>-----------------------------------Video Links-----------------------------------</h3>
 <p></p>
-
+<h3>-------------------------------------Approach------------------------------------</h3>
+<p> I had go through the design and get how to implement the basic structure and design using CSS.Using React-router-dom, I had done the Navbar to navigate the components then I have created individual components for reuseability. After that I have focused on how to implement a map using react-simple-map and I go through the <b>react-simple-map library</b> and design and implement step by step as such possible. After that I have thought about how to implement graphs like Bar chart , bubble chart and scatter charts I had read about on how how to implement and apply on my project so I done using <b>ApexChart library</b>,<b>React recharts library</b>. That's it </p>
 <h2 align="center">Getting Started with Create React App</h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
