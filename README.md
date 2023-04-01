@@ -16,6 +16,10 @@
     "react-simple-maps": "^3.0.0",<br>
     "reactjs-percentage-circle": "^1.0.0",<br>
     "recharts": "^2.5.0",</p>
+<h3>---------------------------------Hosted Links-----------------------------------</h3>
+<p></p>
+<h3>---------------------------------Video Links-----------------------------------</h3>
+<p></p>
 
 <h2 align="center">Getting Started with Create React App</h2>
 
