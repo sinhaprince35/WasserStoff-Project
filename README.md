@@ -1,5 +1,5 @@
 <h1 align="center"><u>WasserStoff Assignment</u></h1>
-<h2>Tech Stack:- ReactJS</h2>
+<h2>Tech Stack:- ReactJS and CSS</h2>
 <h3 align="center">-----------------------------------------------Libraries--------------------------------------------</h3><p>"@emotion/react": "^11.10.6",<br>
     "@emotion/styled": "^11.10.6",<br>
     "@mui/icons-material": "^5.11.11",<br>
