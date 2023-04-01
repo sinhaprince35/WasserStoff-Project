@@ -1,0 +1,58 @@
+.sidebar {
+    position: absolute;
+    top: 4rem;
+    min-height: 80vh;
+    width: 35%;
+    padding-left: 2.5%;
+}
+
+.total {
+    font-family: Poppins;
+    font-size: 52px;
+    font-weight: 500;
+    letter-spacing: -1.75px;
+}
+
+
+.distributes {
+    width: 100%;
+    margin-top: 3rem;
+    color: #383874;
+}
+
+.sidebar>.percentageCircle {
+    height: 12vh;
+    width: 400px;
+    display: flex;
+}
+
+.sidebar>.div1 {
+    color: #383874;
+}
+
+.sidebar>.div1>.users {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0.15px;
+}
+
+.sidebar>.div1>span {
+    font-family: Roboto;
+    padding-left: 1rem;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 1.5px;
+}
+
+.detail {
+    font-size: x-small;
+    padding: 2rem;
+}
+
+.sidebartext {
+    font-weight: 600;
+    padding-bottom: 2rem;
+}

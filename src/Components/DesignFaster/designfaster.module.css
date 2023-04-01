@@ -1,0 +1,109 @@
+.designfaster {
+  width: 30vw;
+  height: auto;
+  text-align: center;
+}
+
+.designfaster>.headingDesign {
+  font-family: "poppins";
+  letter-spacing: -0.44px;
+  text-align: left;
+  font-weight: 400;
+  font-size: 24px;
+  margin-left: 62px;
+  font-weight: 500;
+
+}
+
+.designfaster>.cirleearning {
+  width: 75%;
+  margin: 0.5rem auto;
+  padding: 0.5rem;
+  height: 40vh;
+  border-radius: 15px;
+  border: 1px solid lightgray;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.designfaster>.cirleearning>.circles {
+  height: 86px;
+  width: 86px;
+  border-radius: 50%;
+  background: lightgray;
+  margin: auto;
+  padding: 4px;
+}
+
+.designfaster>.cirleearning>.circles>.innercircle {
+  height: 78px;
+  width: 78px;
+  background: #ffff;
+  border-radius: 50%;
+  padding: 11px;
+}
+
+.designfaster>.cirleearning>.circles>.innercircle>.innermostcircle {
+  height: 55px;
+  width: 55px;
+  background: lightgray;
+  border-radius: 50%;
+}
+
+.designfaster>p {
+  font-family: "roboto";
+  color: #383874;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  align-items: center;
+}
+
+.designfaster>.cirleearning>.updown {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+.designfaster>.cirleearning>.compare {
+  font-family: "Roboto";
+  font-size: 12px;
+  line-height: 16px;
+  color: #383874;
+}
+
+.types {
+  height: auto;
+  width: 20vw;
+  margin: 0.5rem auto;
+}
+
+.types>div {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 0.3rem 0;
+  font-size: 14px;
+}
+
+.designfaster>.bgblue {
+  height: 19vh;
+  border-radius: 15px;
+  width: 75%;
+  margin: auto;
+  background: #8676ff;
+}
+
+.designfaster>.bgblue>div {
+  height: 50%;
+  padding: 0.3rem;
+}
+
+.designfaster>.accdata {
+  width: 75%;
+  border-radius: 15px;
+  padding: 0.3rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  font-size: 0.5rem;
+}

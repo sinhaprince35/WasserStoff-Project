@@ -1,0 +1,15 @@
+.worldmap {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    background: #e2e4f0;
+}
+
+.worldmap>.worldmapChild {
+    width: 60%;
+    height: 40%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}

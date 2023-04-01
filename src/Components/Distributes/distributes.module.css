@@ -1,0 +1,33 @@
+.div2 {
+    display: flex;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+
+.div2>.totalearnicon {
+    height: 50px;
+    width: 50px;
+    border-radius: 15px;
+    display: flex;
+    /* // background-color: cyan; */
+    justify-content: center;
+    align-items: center;
+}
+
+.div2>.totalearn {
+    font-size: 18px;
+    line-height: 32px;
+    padding-left: 1rem;
+}
+
+.div2>.totalearn>.heading {
+    font-family: Roboto;
+    font-weight: 400;
+    letter-spacing: 0.43px;
+}
+
+.div2>.totalearn>.count {
+    font-family: Poppins;
+    font-weight: 600;
+    letter-spacing: 0.15px;
+}

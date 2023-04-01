@@ -1,0 +1,91 @@
+.navbar {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+}
+
+.logoname {
+    height: auto;
+    display: flex;
+}
+
+.name {
+    font-family: Archivo;
+    font-size: 22px;
+    font-weight: 400;
+    padding-left: 5px;
+    line-height: 32px;
+}
+
+.logo {
+    height: 30px;
+    width: 30px;
+}
+
+.logo>img {
+    height: 100%;
+    width: 100%;
+}
+
+.navlist {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+}
+
+.searchbox {
+    width: 40%;
+    height: 32px;
+    background-color: #eef0fa;
+    border-radius: 8px;
+}
+
+.searchIcon1 {
+    display: inline-block;
+    color: #a1a3d4;
+}
+
+.search {
+    width: 90%;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+}
+
+.navlist {
+    display: flex;
+    width: 55%;
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    letter-spacing: 0.4399999976158142px;
+    color: #8484a0;
+    text-decoration: none;
+}
+
+.profileoption {
+    height: 32px;
+    width: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sideicon {
+    height: 21px;
+    width: 16px;
+    color: #a1a3d4;
+}

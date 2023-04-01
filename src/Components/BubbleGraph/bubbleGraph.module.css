@@ -1,0 +1,75 @@
+.bubbles {
+    height: 100%;
+    width: 70%;
+    flex-direction: column;
+    background: #eef1fa;
+    border-radius: 30px;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.bubbles>.timeperiod {
+    height: 5vh;
+    width: 300px;
+    background: #fff;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 15px;
+}
+.bubbles>.allbubles {
+    width: 80%;
+    height: 65vh;
+    margin: 1rem;
+    position: relative;
+}
+.bubbles>.allbubles>div {
+    border-radius: 50%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #ffff;
+  }
+.bubbles>.allbubles>.centerdiv {
+        height: 370px;
+        width: 370px;
+        border-radius: 50%;
+        background: #ffffff;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 2px 10px;
+        margin-left: 30%;
+        margin-top: 5%;
+}
+.bubbles>.allbubles>.centerdiv>.innermost {
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    background: radial-gradient(#838fff 55%, #e3e6ff);
+    
+  }
+.bubbles>.data {
+    height: 62px;
+    width: 600px;
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bubbles>.data>div {
+    height: 100%;
+    width: 140px;
+    text-align: center;
+}
+
+.bubbles>.data>div>span {
+    color: #383874;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.bubbles>.data>div>.title {
+    font-size: 12px;
+}

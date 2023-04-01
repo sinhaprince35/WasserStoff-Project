@@ -1,0 +1,31 @@
+.barchart {
+  height: 53px !important;
+  width: 80%;
+  display: flex;
+  background: #ffff;
+  position: absolute;
+  bottom: 3rem;
+  left: 10%;
+  border-radius: 10px;
+}
+.heading1{
+  color: #383874;
+  font-weight: 600;
+}
+
+.salesfigure {
+  width: 15%;
+  text-align: center;
+}
+
+.graph {
+  position: relative;
+}
+
+.underline {
+  position: absolute;
+  bottom: 4px;
+  height: 5px;
+  width: 100%;
+  background: linear-gradient(90deg, #ffa63f 20%, #ff708b 70%, #8676ff 30%);
+}

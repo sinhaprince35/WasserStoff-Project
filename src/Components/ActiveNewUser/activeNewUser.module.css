@@ -1,0 +1,24 @@
+.active {
+    width: 50%;
+    height: 100%;
+    display: flex;
+}
+
+.active>.activeusers {
+    height: 59px;
+    width: 59px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.active>.activeusers>.circleCover {
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 55px;
+    background: #e2e4f0;
+    border-radius: 50%;
+}
